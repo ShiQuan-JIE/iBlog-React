@@ -134,14 +134,3 @@ pnpm dev-all
 | GET | /web/api/tags | 标签 |
 | POST | /web/api/comments | 发表评论 |
 
-## 改造对比
-
-| 原项目（iBlog Vue） | 新项目（iBlog-React） |
-|---|---|
-| Vue 2.6 | **React 19** |
-| Vuex 3 | **Redux Toolkit** |
-| Element-UI | **Ant Design 5** |
-| Vue Router 3 | **React Router 6** |
-| Mongoose + MongoDB | **Prisma + PostgreSQL** |
-| Webpack | **Vite 5** |
-| JavaScript | **TypeScript** |
